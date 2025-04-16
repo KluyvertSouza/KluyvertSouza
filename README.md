@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @KluyvertSouza
-- 👀 I’m interested in Statistics and Data science
-- 📫 How to reach me: https://www.linkedin.com/in/kluyvert-alberto-souza-450929170/
+# 👋 Olá, eu sou Kluyvert Souza
 
-<!---
-KluyvertSouza/KluyvertSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Mestrando em Estatística no PIPGES (USP/UFSCar).  
+💼 Interesse em Ciência de Dados, Análise de Séries Temporais e Visualização de Dados.  
+🛠️ Habilidades: SQL, Python, Power BI, ARIMA, Modelos de Espaço de Estado.  
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/seuperfil]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/kluyvert-alberto-souza-450929170/))
